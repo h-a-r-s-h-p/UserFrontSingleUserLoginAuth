@@ -1,3 +1,6 @@
+# Link to follow
+https://css-tricks.com/react-authentication-access-control/#:~:text=There%20are%20two%20main%20things,server%20with%20each%20subsequent%20request
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
